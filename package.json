@@ -1,0 +1,30 @@
+{
+  "name": "united-connections-website",
+  "version": "1.0.0",
+  "description": "United Connections Global - Business Process Outsourcing Company Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000",
+    "dev": "http-server -p 3000 -o"
+  },
+  "keywords": [
+    "BPO",
+    "Business Process Outsourcing",
+    "Sales",
+    "Customer Service",
+    "Demand Generation",
+    "Website",
+    "Responsive",
+    "Modern"
+  ],
+  "author": "United Connections Global",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/united-connections-website.git"
+  },
+  "homepage": "https://your-username.github.io/united-connections-website"
+}
